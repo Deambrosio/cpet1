@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clima no Brasil</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 32px;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px #333;
+            margin: 20px 0;
+        }
+
+        h2 {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .column {
+            width: 50%;
+            float: left;
+            box-sizing: border-box;
+        }
+
+        p {
+            text-align: justify;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Rafael Araujo</h2>
+
+    <h1>Clima no Brasil</h1>
+
+    <div class="container">
+        <div class="column">
+            <p>O Brasil, como um membro ativo da comunidade global, também enfrenta os efeitos das mudanças climáticas resultantes do aquecimento global. O aumento da temperatura média do planeta tem um impacto direto no clima brasileiro, o que leva a eventos climáticos extremos, como chuvas intensas, períodos prolongados de seca e alterações nos padrões climáticos.</p>
+
+            <p>A Amazônia desempenha um papel crucial na estabilidade climática mundial e está enfrentando desafios significativos devido ao aumento das temperaturas e às mudanças nos padrões de chuva. Isso coloca em risco a biodiversidade da região e aumenta a probabilidade de incêndios florestais. Nas áreas costeiras, o aumento do nível do mar causado pelo derretimento das calotas polares representa uma ameaça para as comunidades que vivem próximo ao litoral.</p>
+        </div>
+
+        <div class="column">
+            <p>Além disso, o aquecimento global afeta diretamente os recursos hídricos, tendo um impacto direto na agricultura e na produção de alimentos. Eventos climáticos extremos, como tempestades mais intensas e duradouras, podem resultar em inundações e deslizamentos de terra prejudicando a infraestrutura local e a segurança das comunidades.</p>
+
+            <p>Portanto, é essencial para o Brasil compreender e enfrentar os desafios relacionados ao aquecimento global. Isso envolve tomar medidas para mitigar seus impactos, adaptar-se às mudanças climáticas em curso e preservar o meio ambiente. O país está comprometido com esforços internacionais para reduzir as emissões de gases de efeito estufa e buscar soluções sustentáveis para lidar com os efeitos das mudanças climáticas.</p>
+        </div>
+    </div>
+
+</body>
+</html>
